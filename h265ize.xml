@@ -4,7 +4,7 @@
   <Support></Support>
   <Project>https://github.com/FallingSnow/h265ize</Project>
   <Description>h265ize</Description>
-  <Registry>https://hub.docker.com/r/techn0mancer/docker-h265ize/</Registry>
+  <Registry>https://hub.docker.com/r/techn0mancer/h265ize/</Registry>
   <Repository>techn0mancer/h265ize</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
